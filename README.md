@@ -30,8 +30,4 @@ Follow these steps to set up the project locally:
 - npm or yarn package manager.
 - A Google Cloud account to get access to the Generative AI API (You will need the API key).
   
-### Steps to Run the Project Locally
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/harryongit/generative-ai-qna-bot.git
